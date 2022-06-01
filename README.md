@@ -1,2 +1,2 @@
-# Project---8
+# Project-8
 Parallax Website | HTML CSS
